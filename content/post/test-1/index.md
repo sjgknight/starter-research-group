@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - tag1
+  - Source Themes
 categories:
   - '"Cat1"'
 projects:
