@@ -9,17 +9,17 @@
 #  weight = 10
 
 [[main]]
-  name = "News and Posts"
+  name = "News"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
-  url = "people"
+  name = "Our research"
+  url = "research"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Find out more (our homepage)"
   url = "publication"
   weight = 40
 
