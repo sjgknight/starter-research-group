@@ -4,8 +4,7 @@ subtitle: optional subtitle
 date: 2021-02-26T01:49:39.325Z
 draft: false
 featured: false
-tags:
-  - ["tag1","tag2","tag3"]
+tags: ["tag1","tag2","tag3"]
 categories:
   - '"Cat1"'
 projects:
