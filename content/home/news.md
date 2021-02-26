@@ -1,12 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true
+widget_id: recent-posts
 weight: 20
-
-title: Latest News
-subtitle:
-
+title: News and Posts
+subtitle: null
+active: true
 content:
   count: 5
   filters:
@@ -18,6 +16,7 @@ content:
   offset: 0
   order: desc
   page_type: post
+headless: true
 design:
   view: 3
   columns: "1"
