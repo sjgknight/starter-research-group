@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: welcome
 headless: true
-weight: 10
+weight: 70
 title: Research Group
 subtitle: ""
 active: false
