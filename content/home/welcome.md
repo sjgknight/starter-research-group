@@ -13,4 +13,6 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-We'll put some text in here to describe it all
+We'll put some text in here to describe it all.
+
+The top image on the page is set in this box
