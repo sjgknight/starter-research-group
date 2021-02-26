@@ -1,6 +1,6 @@
 ---
 widget: tag-cloud
-widget_id: my-widget-123
+widget_id: tag-cloud
 headless: true
 weight: 10
 active: true
