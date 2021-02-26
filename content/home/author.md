@@ -1,4 +1,6 @@
 ---
+weight: 25
+
 # Display name
 title: sk
 
