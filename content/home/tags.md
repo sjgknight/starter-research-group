@@ -15,3 +15,4 @@ design:
   font_size_max: 2.0
     
 ---
+Browse all posts via [news](https://crlts.netlify.app/post/), about our [research projects](https://crlts.netlify.app/research), or by tag.
