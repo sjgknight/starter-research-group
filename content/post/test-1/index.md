@@ -3,14 +3,10 @@ title: test 1
 subtitle: optional subtitle
 date: 2021-02-26T01:49:39.325Z
 draft: false
-featured: false
 tags:
-  - tag1
-  - Source Themes
-categories:
-  - '"Cat1"'
-projects:
-  - Project1
+- Source Themes
+- tag1
+featured: false
 image:
   filename: featured
   focal_point: Smart
