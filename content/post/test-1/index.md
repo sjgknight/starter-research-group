@@ -7,7 +7,7 @@ featured: false
 tags:
   - tag1;tag2;tag3
 categories:
-  - Cat1
+  - "Cat1"
 projects:
   - Project1
 image:
