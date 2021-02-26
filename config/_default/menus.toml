@@ -19,8 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "Find out more 
-  at our homepage"
+  name = "Find out more <br> at our homepage"
   url = "publication"
   weight = 40
 
