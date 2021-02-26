@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: A test display thing
 date: 2020-12-01
 ---
 
