@@ -8,7 +8,6 @@ headless: true
 weight: 10
 title: Research Group
 subtitle: ""
-active: true
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,6 +21,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+active: true
 design:
   columns: "1"
 hero_media: welcome.jpg
