@@ -1,5 +1,5 @@
 ---
-widget: tags-cloud
+widget: tag-cloud
 widget_id: tags
 headless: true
 weight: 50
